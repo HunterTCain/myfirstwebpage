@@ -1,27 +1,30 @@
 h1 {
-  color: red;
+  color:teal;
   text-align: center;
   font-family: 'Times New Roman', Times, serif;
 }
 h2 {
   text-align: center;
-  color:teal;
+  color:rgb(2, 58, 58);
   font-weight: bold;
 }
 h3 {
   font-size: 15px;
-  color:seagreen;
+  color:rgb(5, 77, 36);
   line-height:normal;
+  text-align: center;
 }
 li {
   color:slategrey;
+  text-align: center;
 }
 p {
-  color:turquoise;
+  color:rgb(54, 58, 54);
+  text-align: center;
 }
 .center {
-  display:block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 75%;
 }
